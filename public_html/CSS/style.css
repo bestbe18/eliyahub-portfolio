@@ -1,4 +1,7 @@
-body {
-    background-color: coral;
-  
+body{ 
+  background: url(http://ppcdn.500px.org/44626440/66bdf23add794c3eb1c01154fdf7ce39752d86f2/2048.jpg) no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
 }
